@@ -1,0 +1,31 @@
+
+css trong D:\xampp\htdocs\opencart-2.1.0.1\upload\catalog\view\theme\default\stylesheet
+
+Duong dan thu muc theme de sua giao dien la  D:\xampp\htdocs\opencart-2.1.0.1\upload\catalog\view\theme\default\template
+Vi du link
+http://localhost/opencart-2.1.0.1/upload/index.php?route=product/category&path=20
+de y route=product/category
+thi giao dien chinh ben fai trong file /product/category.tpl
+
+
+
+
+Ben fai can sua cac thu: link chi tiet san pham,   phan trang , link becurum (Trang chu/desktop) , cai cho "chat tao mang"
+
+xoa dong  <p><a href="<?php echo $compare; ?>" id="compare-total"><?php echo $text_compare; ?></a></p>
+
+phan trang thi link bo tron, ma xanh la cay. E lam han 1 cai phan trang moi roi a cho code vào sau
+
+
+Ben trai la cac module , giao dien cac module nam trong folder   /module/.*
+trong link tren , ben trai la module   category ,sua giao dien ben trong file module/category.tpl , a can lam giao dien 
+khoi category, khoi fan fb, khoi bo loc tim kiem
+
+
+ D:\xampp\htdocs\opencart-2.1.0.1\upload\catalog\view\theme\default\template
+ 
+ vao thu file module/category.tpl s? th?y a comment ch? nào c?n code
+ 
+ http://mdi.vn/danh-muc-san-pham/son-va-muc-in-33.html
+ 
+http://localhost/opencart-2.1.0.1/upload/index.php?route=product/category&path=20

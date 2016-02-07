@@ -1,0 +1,4 @@
+2016-02-07 6:56:49 - PHP Notice:  Undefined variable: categories in D:\xampp1834\htdocs\opencart-2.1.0.1\upload\catalog\view\theme\default\template\product\product.tpl on line 10
+2016-02-07 6:56:49 - PHP Warning:  Invalid argument supplied for foreach() in D:\xampp1834\htdocs\opencart-2.1.0.1\upload\catalog\view\theme\default\template\product\product.tpl on line 10
+2016-02-07 6:57:08 - PHP Notice:  Undefined variable: categories in D:\xampp1834\htdocs\opencart-2.1.0.1\upload\catalog\view\theme\default\template\product\product.tpl on line 10
+2016-02-07 6:57:08 - PHP Warning:  Invalid argument supplied for foreach() in D:\xampp1834\htdocs\opencart-2.1.0.1\upload\catalog\view\theme\default\template\product\product.tpl on line 10
